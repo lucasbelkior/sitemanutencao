@@ -1,0 +1,50 @@
+charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+@font-face {
+    font-family: 'FonteLogo';
+
+}
+
+body {
+
+    background-color: #186ca1;
+}
+div#interface{
+        position: relative;
+        width: 700px;
+    display: block;
+    background-color:#a8deff;
+    margin: 0px auto 0px auto;
+    padding: 20px;
+
+}
+
+header#cabecalho{
+    text-align: center;
+    border-bottom: 1px black solid;
+    font-family: Courier New;
+    color:#15499e;
+
+}
+
+header#cabecalho h1{
+    font-size: 48px;
+}
+
+header#cabecalho h3 {
+    font-family: 'Courier New';
+    color: #15499e;
+}
+
+     p {
+        text-align: justify;
+        text-indent: 50px;
+    }
+
+footer p{
+    border-top: 1px #606060 solid;
+    text-align: center;
+}
+
